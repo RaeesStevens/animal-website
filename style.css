@@ -1,11 +1,10 @@
 body {
     font-family: Arial, Sans-Serif;
     background-color: #013316;
-    max-width: 750px;
 }
+
 .elephant-image {
     border: 5px solid white;
-    
     justify-content: center;
 }
 
