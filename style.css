@@ -1,13 +1,13 @@
 body {
     font-family: Arial, Sans-Serif;
-    background-color: #0833be;
+    background-color: #0c1430;
 }
 
 h1 {
     text-align: center;
 }
 
-img {
+.banner-image {
 border: 10px solid #333;
 }
 
@@ -20,7 +20,7 @@ Add the following styling to the page:
 Change the background colour y
 Change the font y 
 Center the title y 
-Add a border to the image
+Add a border to the image y
 Remember to commit after each change!
 Push your branch to GitHub
 Create a pull request asking to merge your branch to main.
