@@ -1,5 +1,28 @@
 body {
     font-family: Arial, Sans-Serif;
-    background-color: #000;
+    background-color: #0833be;
 }
+
+h1 {
+    text-align: center;
+}
+
+img {
+border: 10px solid #333;
+}
+
+
+/* Accept the invitation to collaborate from your partner
+Clone the repository to your computer
+Create a branch called add-css. Check that you are now working on your new branch.
+Create a styles.css file and add it to index.html using a <link> element.
+Add the following styling to the page:
+Change the background colour y
+Change the font y 
+Center the title y 
+Add a border to the image
+Remember to commit after each change!
+Push your branch to GitHub
+Create a pull request asking to merge your branch to main.
+*/
 
