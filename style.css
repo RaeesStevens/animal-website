@@ -1,5 +1,11 @@
 body {
     font-family: Arial, Sans-Serif;
-    background-color: #000;
+    background-color: #013316;
+}
+.img {
+    border:5px;
 }
 
+h1 {
+    text-align: center;
+}
