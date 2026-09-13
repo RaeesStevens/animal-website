@@ -5,17 +5,19 @@ body {
 
 .elephant-image {
     border: 5px solid white;
-    justify-content: center;
+    margin: 0 auto;
     width: 60%;
     display: block;
 }
 
 h1 {
     text-align: center;
+    font-size: 50px;
 }
 
 h2 {
     text-align: center;
+    font-size: 40px;
 }
 
 p {
