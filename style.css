@@ -4,6 +4,7 @@ body {
 }
 .img {
     border: 5px solid white;
+    max-width: 100px;
 }
 
 h1 {
