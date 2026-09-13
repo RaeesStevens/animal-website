@@ -1,6 +1,7 @@
 body {
     font-family: Arial, Sans-Serif;
     background-color: #013316;
+    justify-content: justify;
 }
 
 .elephant-image {
